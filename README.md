@@ -11,7 +11,7 @@
 - MyBatis
 - SpringBoot
 - java
-- HTMl & CSS
+- HTML & CSS
 - javascript
 - JQuery
 - Ajax
