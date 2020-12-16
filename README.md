@@ -15,7 +15,15 @@
 - javascript
 - JQuery
 - Ajax
+- BootStrap
 
 ## 담당한 기능
-1. 미팅 게시판 CRUD & 미팅, 후기 게시판 UI 담당
-  + Ajax을 이용하여 게시판 목록, 등록, 수정
+1. meeting Board
+  + Ajax을 이용하여 게시판 목록 동적 노드로 불러오기
+  + 페이징 처리
+  + 상세페이지 불러오기
+  + 게시글 수정, 삭제
+2. meeting, review Board UI 담당
+  + bootstrap 사용
+  + layout 및 아이콘 선정
+  
