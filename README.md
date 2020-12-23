@@ -27,7 +27,7 @@
   + 상세페이지 불러오기
   + 게시글 수정, 삭제
 2. meeting, review Board UI 담당
-  + bootstrap 사용
-  + layout 및 아이콘 선정
+  + bootstrap을 이용한 
+  + layout 및 아이콘, 색깔 선정
   
   <img width="1281" alt="Screenshot 2020-12-16 at 3 52 01 PM" src="https://user-images.githubusercontent.com/69250105/102316781-ec3f4080-3fb9-11eb-8d23-02e080c8e427.png">
